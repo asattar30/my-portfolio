@@ -1,12 +1,6 @@
 import React from "react";
 
-export default function Navbar({
-  about,
-  projects,
-  services,
-  contact,
-  menuitem,
-}) {
+export default function Navbar({ about, projects, services, menuitem }) {
   const About = () => {
     return about();
   };
@@ -17,10 +11,6 @@ export default function Navbar({
 
   const Services = () => {
     return services();
-  };
-
-  const Contact = () => {
-    return contact();
   };
 
   return (

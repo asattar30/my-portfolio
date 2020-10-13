@@ -11,8 +11,8 @@ export default function AboutMe() {
       </h4>
       <br />
       <p className="Description">
-        My name is ali sattar, i have 29 years old. I'm a backend web developer.
-        I know HTML, CSS, JavaScript, React, Python and Django.
+        My name is ali sattar, iam 29 years old. I'm a backend web developer. I
+        know HTML, CSS, JavaScript, React, Python and Django.
       </p>
     </div>
   );
